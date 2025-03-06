@@ -8,6 +8,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 710123865724081249, guid: 2f1f40ea6749a1347b94d877cff2c902, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 0f297fa51352a7d4ab3fb1dc0d39dbe0, type: 2}
     - target: {fileID: 968797784352695805, guid: 2f1f40ea6749a1347b94d877cff2c902, type: 3}
       propertyPath: m_Name
       value: WarriorBlue Variant
