@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2354051872414597550, guid: 8090f4f473a4bd8419782b660f51b46e, type: 3}
       propertyPath: m_Name
-      value: TNTYellow Variant
+      value: BarrelYellow Variant
       objectReference: {fileID: 0}
     - target: {fileID: 3477336783749338178, guid: 8090f4f473a4bd8419782b660f51b46e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -52,6 +52,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8190199269366232674, guid: 8090f4f473a4bd8419782b660f51b46e, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 0d3ad7b702891ef4aab04b4e32c2b817, type: 2}
     - target: {fileID: 8483417114913392899, guid: 8090f4f473a4bd8419782b660f51b46e, type: 3}
       propertyPath: m_Sprite
       value: 

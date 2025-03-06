@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -4018474691228133916, guid: 95a9f7852ae479b4884099f66b817d74, type: 3}
+    - target: {fileID: 744495833488720192, guid: e4b9c7d08e5d873469a6bfbcf880293d, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: ea4e332ffe8b39f4bbbc0fd454a59893, type: 2}
     - target: {fileID: 2161604902616572887, guid: e4b9c7d08e5d873469a6bfbcf880293d, type: 3}
       propertyPath: m_Name
       value: TNTBlue Variant

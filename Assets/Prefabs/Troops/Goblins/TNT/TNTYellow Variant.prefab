@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -5897788223502500155, guid: ca2a69797e8723f40a83de7a94b8d423, type: 3}
+    - target: {fileID: 744495833488720192, guid: e4b9c7d08e5d873469a6bfbcf880293d, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: fb817270eb40ade4d8cba5f631008100, type: 2}
     - target: {fileID: 2161604902616572887, guid: e4b9c7d08e5d873469a6bfbcf880293d, type: 3}
       propertyPath: m_Name
       value: TNTYellow Variant
